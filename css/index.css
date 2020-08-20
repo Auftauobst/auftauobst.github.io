@@ -1,0 +1,17 @@
+
+.loesung{
+    border-bottom-style: solid;
+    border-bottom-color: red;
+}
+.header{
+    text-align: center;
+    position: relative;
+}
+
+.form{
+    position: relative;
+    padding-left: 45%;
+}
+.x3{
+    width: 20%;
+}
